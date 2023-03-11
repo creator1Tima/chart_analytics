@@ -1,3 +1,6 @@
-csv
 matplotlib
 numpy
+pandas
+sklearn
+pyopencl
+tensorflow
